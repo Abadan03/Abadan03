@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abadan03
-- 👀 I’m interested in Back End Developer
+- 👀 I’m interested in both Front End Back End Developer
 - 🌱 I’m currently learning ... JavaScript
 
 
